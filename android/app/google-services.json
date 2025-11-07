@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836869471377",
+    "project_id": "ofa-compra",
+    "storage_bucket": "ofa-compra.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836869471377:android:34a4ea76da2e5e540fd330",
+        "android_client_info": {
+          "package_name": "com.delacruz.ofa.ofa_shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIRZQKX_XUuIVKVwm90JnCaSm4uvTjrxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
